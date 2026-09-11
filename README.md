@@ -6,6 +6,7 @@
 
 ## References and Resources
 List any resources used here, or simply put `N/A` if not applicable.
+
 developer.android.com (many many individual pages)
 
 ## Verbal Collaboration
